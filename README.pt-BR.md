@@ -6,6 +6,14 @@
 
 O projeto parte de memória linguística, experiência vivida, fala familiar, observação e futuras referências contextuais da autora. Seu objetivo não é definir um único “dialeto piauiense”, nem representar todas as pessoas que falam no estado. Em vez disso, busca documentar linguagem situada: como uma expressão pode ser usada, o que ela pode significar em contexto, onde foi encontrada e o que ainda permanece incerto.
 
+## Escopo geográfico inicial
+
+A coleção inicial parte do contexto linguístico vivido pela autora no Sul do Piauí, em uma região de divisa com Pernambuco e Ceará.
+
+Ela não representa todo o Piauí. Vocabulário, pronúncia, usos e sentidos podem variar profundamente entre o Norte, Centro e Sul do estado, entre contextos rurais e urbanos, e entre regiões de fronteira.
+
+O projeto poderá se expandir por meio de futuros cadernos regionais, mas cada novo escopo deverá ser documentado separadamente, sem ser tratado como equivalente de forma automática.
+
 ## Por que este projeto existe
 
 O português brasileiro não é uniforme. Expressões circulam entre cidades, gerações, famílias, trajetórias de migração, espaços digitais e contextos sociais. Rótulos regionais podem ajudar, mas também podem esconder variações locais importantes.
@@ -14,7 +22,7 @@ O projeto começa pelo Piauí porque a autora tem uma relação direta com essa 
 
 ## Escopo do dataset
 
-A primeira versão reúne uma coleção pequena e manualmente curada de expressões associadas ao Piauí.
+A primeira versão reúne uma coleção pequena e manualmente curada de expressões associadas ao contexto linguístico vivido pela autora no Sul do Piauí.
 
 Cada registro pode incluir:
 

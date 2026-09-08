@@ -8,9 +8,11 @@ The project documents situated language rather than attempting to define a singl
 
 ## Initial scope
 
-Version 0.1 begins with a small collection of expressions selected from the author's lived experience, linguistic memory, family speech, and everyday observation.
+Version 0.1 and version 0.2 begin with a small collection of expressions selected from the author's lived linguistic context in Southern Piauí, in a border area with Pernambuco and Ceará.
 
-The dataset does not claim to represent every city, generation, social group, or speaker in Piauí.
+The dataset does not claim to represent all of Piauí. Vocabulary, pronunciation, meaning, and frequency may vary substantially across Northern, Central, Southern, rural, urban, and border-area contexts within the state.
+
+Future regional collections must be documented as separate scopes. Records from one locality, speaker, family, or border region must not be treated as evidence that all people in Piauí use an expression in the same way.
 
 ## Inclusion criteria
 

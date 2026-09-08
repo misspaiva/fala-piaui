@@ -6,6 +6,14 @@
 
 The project begins from the author's linguistic memory, lived experience, family speech, observation, and future contextual references. Its goal is not to define a single “Piauí dialect,” nor to represent every speaker in the state. Instead, it documents situated language: how an expression may be used, what it can mean in context, where it was encountered, and what remains uncertain.
 
+## Initial geographic scope
+
+The initial collection is grounded in the author's linguistic context in Southern Piauí, in a border area with Pernambuco and Ceará.
+
+It does not represent all of Piauí. Language use, vocabulary, pronunciation, and meaning may differ substantially across Northern, Central, Southern, rural, urban, and border-area contexts within the state.
+
+The project may expand through future regional notebooks, but each new scope must be documented separately rather than treated as automatically equivalent.
+
 ## Why this project exists
 
 Brazilian Portuguese is not a uniform language. Expressions travel across cities, generations, families, migration routes, online spaces, and social contexts. Regional labels can be useful, but they can also hide meaningful local variation.
@@ -14,7 +22,7 @@ This project starts with Piauí because the author has a direct relationship wit
 
 ## Dataset scope
 
-The first version focuses on a small, manually curated collection of expressions associated with Piauí.
+The first version focuses on a small, manually curated collection of expressions associated with the author's lived linguistic context in Southern Piauí.
 
 Each record may include:
 

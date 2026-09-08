@@ -257,3 +257,273 @@ Este é um espaço de coleta inicial. Nem toda anotação daqui entrará no data
 
 - **Nível inicial de confiança:**
   Alta para os usos descritos pela autora; a distribuição regional e as variações sociais ainda precisam de confirmação.
+
+  ---
+
+  ## Expressão: Arrodear
+
+- **Onde eu ouvi ou uso:**
+  Cresci escutando e reconhecendo essa palavra no meu contexto de fala.
+
+- **Quem usava ou usa:**
+  Escuto em conversas cotidianas, especialmente ao falar sobre caminhos, trajetos e histórias contadas de forma indireta.
+
+- **Localidade possível:**
+  Piauí. A distribuição em outras localidades e regiões ainda precisa ser confirmada.
+
+- **O que significa para mim:**
+  “Arrodear” significa dar a volta, fazer um desvio ou seguir por um caminho indireto em vez de ir diretamente a algum lugar.
+  
+  Também pode ser usado de forma figurada para falar de alguém que demora a chegar ao ponto de uma conversa, conta uma história dando muitas voltas ou evita uma explicação direta.
+
+- **Em que situação aparece:**
+  Pode aparecer ao explicar um trajeto físico ou ao comentar que alguém está falando de maneira indireta ou demorando a concluir uma conversa.
+
+- **Categoria possível:**
+  Movimento e comunicação indireta.
+
+- **Frase original de exemplo:**
+  Você arrodeia e não termina a conversa.
+  
+  Arrodeia o carro nessa rua.
+
+- **Como eu explicaria em inglês:**
+  “Arrodear” means to go around something, take a detour, or follow an indirect route instead of going straight ahead.
+  
+  In conversation, it can describe someone who takes a long, indirect route before getting to the point.
+
+- **Existe uma tradução direta para o inglês?:**
+  Não há uma tradução única.
+  
+  “To go around,” “to take a detour,” “to take the long way around,” and “to beat around the bush” may approximate different uses, but each carries slightly different implications.
+
+- **Pode soar carinhosa, ofensiva, irônica, engraçada ou estranha?:**
+  Em um trajeto físico, geralmente é descritiva.
+  
+  Em uma conversa, pode soar como uma crítica leve, impaciência ou humor quando alguém demora a chegar ao ponto.
+
+- **Acho que outras pessoas do Piauí usam?:**
+  Sim. Reconheço o uso no meu contexto de fala, mas a distribuição regional ainda precisa ser confirmada.
+
+- **O que preciso confirmar antes de publicar?:**
+  Quais formas conjugadas são mais frequentes no meu contexto; como o sentido figurado varia entre localidades; e se o uso é comum em outras regiões do Brasil.
+
+- **Fonte do registro:**
+  Memória pessoal e observação cotidiana.
+
+- **Nível inicial de confiança:**
+  Alto para os usos descritos pela autora; a distribuição geográfica e variações de sentido ainda precisam de confirmação.
+
+---
+## Expressão: Arreado / Arreada
+
+- **Onde eu ouvi ou uso:**
+  Cresci escutando essa expressão no meu contexto de fala.
+
+- **Quem usava ou usa:**
+  Escuto em conversas sobre paixão, interesse amoroso e envolvimento afetivo.
+
+- **Localidade possível:**
+  Piauí. A expressão também pode aparecer em outras localidades e regiões, mas sua distribuição e possíveis variações de sentido ainda precisam ser confirmadas.
+
+- **O que significa para mim:**
+  “Arreado” ou “arreada” descreve alguém que está muito apaixonado, encantado ou emocionalmente envolvido por outra pessoa.
+  
+  Não indica apenas gostar de alguém. Comunica uma paixão forte ou o sentimento de estar intensamente tomado por aquela pessoa.
+
+- **Em que situação aparece:**
+  Pode aparecer ao falar de alguém que está apaixonado, muito interessado ou claramente envolvido emocionalmente por outra pessoa.
+
+- **Categoria possível:**
+  Paixão e intensidade afetiva.
+
+- **Frase original de exemplo:**
+  Eu tô arreado por ela.
+
+- **Como eu explicaria em inglês:**
+  “Arreado” or “arreada” describes someone who is intensely in love, deeply smitten, or emotionally taken by another person.
+
+- **Existe uma tradução direta para o inglês?:**
+  Não. “Head over heels,” “deeply smitten,” and “completely in love” approximate the intensity, but none is a perfect equivalent.
+
+- **Pode soar carinhosa, ofensiva, irônica, engraçada ou estranha?:**
+  Geralmente pode soar afetuosa, intensa ou engraçada, especialmente quando alguém brinca que outra pessoa está muito apaixonada.
+  
+  Dependendo da entonação, também pode aparecer como uma provocação leve sobre alguém que está visivelmente encantado por outra pessoa.
+
+- **Acho que outras pessoas do Piauí usam?:**
+  Sim. Reconheço o uso no meu contexto de fala, mas a distribuição regional ainda precisa ser confirmada.
+
+- **O que preciso confirmar antes de publicar:**
+  Como o uso amoroso de “arreado” se relaciona com “arriar” e “arriado” no meu contexto de fala; se essa variação aparece em outras localidades; e se existem usos afetivos semelhantes em outras regiões.
+
+- **Fonte do registro:**
+  Memória pessoal e observação cotidiana. A relação com os sentidos dicionarizados de “arriar” poderá ser documentada com uma fonte de referência em versões futuras.
+
+- **Nível inicial de confiança:**
+  Alto para o uso amoroso de “arreado” descrito pela autora; a origem linguística, a distribuição geográfica e possíveis variações ainda precisam de confirmação.
+
+  ---
+
+  ## Expressão: Valha
+
+- **Onde eu ouvi ou uso:**
+  Uso a expressão com frequência no meu cotidiano de fala.
+
+- **Quem usava ou usa:**
+  Reconheço e escuto o uso no meu contexto de fala, em conversas cotidianas e reações espontâneas.
+
+- **Localidade possível:**
+  Piauí. A expressão também me parece associada a outros contextos do Nordeste, mas sua distribuição e variações locais ainda precisam ser confirmadas.
+
+- **O que significa para mim:**
+  “Valha” é uma expressão de reação usada diante de algo surpreendente, exagerado, inesperado, engraçado, preocupante ou difícil de acreditar.
+  
+  Ela não possui um significado literal único. Seu efeito depende da situação, da entonação e do que vem depois dela.
+
+- **Em que situação aparece:**
+  Pode aparecer como reação a uma notícia, comportamento, quantidade, problema, história, pessoa ou situação inesperada.
+  
+  Também pode vir acompanhada de outras palavras, como em “valha-me Deus”, “valha, mulher” ou “valha o jeito dela”.
+
+- **Categoria possível:**
+  Interjeição e reação emocional.
+
+- **Frase original de exemplo:**
+  Valha, o magote de menino aqui!
+
+- **Como eu explicaria em inglês:**
+  “Valha” is an expressive interjection used to react to something surprising, excessive, amusing, worrying, or difficult to believe.
+  
+  Depending on tone and context, it may have an effect similar to “Goodness!”, “Oh my!”, “Wow!”, “Come on!”, or “What a situation!”
+
+- **Existe uma tradução direta para o inglês?:**
+  Não. Different English reactions can approximate particular uses, but there is no single direct equivalent.
+
+- **Pode soar carinhosa, ofensiva, irônica, engraçada ou estranha?:**
+  Pode soar surpresa, engraçada, preocupada, exagerada, incrédula ou levemente crítica. O tom depende da entonação e da situação.
+
+- **Acho que outras pessoas do Piauí usam?:**
+  Sim. Reconheço o uso no meu contexto de fala, mas a distribuição regional ainda precisa ser confirmada.
+
+- **O que preciso confirmar antes de publicar?:**
+  Quais construções com “valha” são mais frequentes em diferentes localidades; como ela varia entre gerações; e se existem diferenças importantes entre “valha”, “valha-me Deus” e outras formas de uso.
+
+- **Fonte do registro:**
+  Uso pessoal e observação cotidiana.
+
+- **Nível inicial de confiança:**
+  Alto para o uso descrito pela autora; a distribuição geográfica e as variações de construção ainda precisam ser confirmadas.
+
+---
+
+## Expressão: Sol esfriar
+
+- **Onde eu ouvi ou uso:**
+  Uso a expressão no cotidiano, especialmente ao planejar atividades para mais tarde.
+
+- **Quem usava ou usa:**
+  Reconheço o uso em conversas cotidianas no meu contexto de fala.
+
+- **Localidade possível:**
+  Piauí. A expressão pode ser compreendida e usada em outros lugares, mas este registro documenta seu uso cotidiano no contexto da autora.
+
+- **O que significa para mim:**
+  “Quando o sol esfriar” significa esperar o calor diminuir antes de fazer alguma atividade.
+  
+  No uso cotidiano, a expressão costuma indicar o fim da tarde ou outro momento posterior em que o ambiente esteja menos quente, sem precisar indicar uma hora exata.
+
+- **Em que situação aparece:**
+  Pode aparecer ao decidir quando sair, caminhar, trabalhar fora, visitar alguém ou fazer qualquer atividade que seja desconfortável sob calor forte.
+
+- **Categoria possível:**
+  Clima e tempo cotidiano.
+
+- **Frase original de exemplo:**
+  Vamos sair quando o sol esfriar.
+
+- **Como eu explicaria em inglês:**
+  “When the sun cools down” is a literal rendering, but the expression usually means waiting until the heat becomes less intense, often later in the afternoon.
+
+- **Existe uma tradução direta para o inglês?:**
+  Não há uma tradução perfeita. “When the heat eases,” “when it gets cooler,” or “later in the afternoon, when the heat lets up” approximate the practical meaning, but do not fully preserve the image of the sun as a shared time marker.
+
+- **Pode soar carinhosa, ofensiva, irônica, engraçada ou estranha?:**
+  Geralmente é uma expressão prática e descritiva.
+  
+  Dependendo do contexto, também pode soar engraçada ou resignada quando o calor atrasa ou dificulta planos.
+
+- **Acho que outras pessoas do Piauí usam?:**
+  Sim. Reconheço o uso no meu contexto cotidiano, mas a frequência e a distribuição em outras localidades ainda precisam de confirmação.
+
+- **O que preciso confirmar antes de publicar?:**
+  Se a expressão é usada com a mesma frequência em outras cidades; quais atividades são mais associadas a ela; e como pessoas de diferentes gerações entendem esse marco de tempo cotidiano.
+
+- **Fonte do registro:**
+  Uso pessoal e observação cotidiana.
+
+- **Nível inicial de confiança:**
+  Alto para o uso descrito pela autora; a frequência e distribuição regional ainda precisam ser confirmadas.
+
+---
+
+## Expressão: Oxente / Oxe
+
+- **Onde eu ouvi ou uso:**
+  Uso diariamente. É uma expressão presente no meu cotidiano de fala.
+
+- **Quem usava ou usa:**
+  Escuto e uso com frequência entre pessoas que conheço na minha cidade.
+
+- **Localidade possível:**
+  Piauí. Também reconheço a expressão como muito associada ao Nordeste, mas sua distribuição e suas variações locais ainda precisam ser confirmadas.
+
+- **O que significa para mim:**
+  “Oxente”, frequentemente reduzido para “oxe”, é uma expressão muito flexível usada para reagir a uma situação, pergunta ou afirmação.
+  
+  Dependendo da entonação e do contexto, pode comunicar surpresa, espanto, incredulidade, reprovação, humor, impaciência, concordância ou recusa.
+  
+  Ela não possui um único significado literal fixo. Seu sentido é construído dentro da conversa.
+
+- **Em que situação aparece:**
+  Pode aparecer como reação a uma notícia, um problema, uma pergunta, um convite, um comportamento inesperado ou uma fala de outra pessoa.
+
+- **Categoria possível:**
+  Interjeição e posicionamento na conversa.
+
+- **Frase original de exemplo:**
+  Meu computador deu um bug.
+  
+  Oxente!
+  
+  Amiga, vamos sair hoje?
+  
+  Oxe.
+  
+  Você gosta de fígado?
+  
+  Oxe.
+
+- **Como eu explicaria em inglês:**
+  “Oxente,” often shortened to “oxe,” is a highly flexible interjection. Its meaning depends on intonation, situation, and the relationship between speakers.
+  
+  It may express surprise, disbelief, protest, amusement, impatience, agreement, or refusal.
+
+- **Existe uma tradução direta para o inglês?:**
+  Não. “Wow,” “what?”, “come on,” “really?”, “of course,” and “no way” may approximate individual uses, but none translates the expression in every context.
+
+- **Pode soar carinhosa, ofensiva, irônica, engraçada ou estranha?:**
+  Pode soar engraçada, carinhosa, surpresa, incrédula, firme, impaciente ou irônica. O efeito depende principalmente do tom e da situação.
+
+- **Acho que outras pessoas do Piauí usam?:**
+  Sim. Reconheço o uso como muito comum no meu contexto de fala.
+
+- **O que preciso confirmar antes de publicar?:**
+  Como “oxente” e “oxe” variam entre cidades, gerações e regiões; quais usos são mais comuns em contextos diferentes; e se há diferenças pragmáticas importantes entre a forma longa e a forma curta.
+
+- **Fonte do registro:**
+  Uso pessoal e observação cotidiana.
+
+- **Nível inicial de confiança:**
+  Alto para o uso descrito pela autora; a distribuição regional e as variações de tom ainda precisam de confirmação.
+
