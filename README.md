@@ -56,4 +56,6 @@ Contributions are welcome in the future. Proposed entries should include context
 
 ## License
 
-License to be defined before public release.
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+If you reuse, adapt, or redistribute this dataset, please credit **Fala, Piauí**, Sauanna Paiva, and link to the original repository.
